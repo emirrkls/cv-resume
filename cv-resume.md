@@ -9,10 +9,11 @@ Location: İstanbul/İzmir, Turkey
 
 GitHub: https://github.com/emirrkls
 
-Professional Summary
+Professional Summary:
+
 Software Engineering student (FMV Işık University) specializing in backend development and data engineering. Proven ability to build end-to-end applications, from Java-based desktop service trackers (JavaFX, SQLite) to AI-driven trading bots and machine learning models. Eager to apply skills in Java, Python, backend architecture, and reinforcement learning to solve complex problems.
 
-Technical Skills
+Technical Skills:
 Languages: Java, Python, SQL
 
 Backend: Object-Oriented Programming (OOP), REST APIs, MVC, Exception Handling
@@ -27,7 +28,8 @@ Actively Learning (Web & Backend): Spring, JavaScript, HTML, CSS, PostgreSQL, Do
 
 Actively Learning (Mobile): React Native, Flutter (Dart)
 
-Projects
+Projects:
+
 AI-Driven Trading Bot
 Technologies: Python, Binance API, Machine Learning
 
@@ -59,11 +61,13 @@ Car Rental Application
 
 Developed a system for managing vehicle inventory, customer rentals, and vehicle returns, focusing on robust class design and object interaction.
 
-Education
+Education:
+
 FMV Işık University
 Bachelor in Software Engineering (2018 - 2026)
 
-Languages
+Languages:
+
 Turkish: Native
 
 English: Professional Working Proficiency
